@@ -70,6 +70,8 @@
 
 ## Check out
 
+### Code Institute Modules
+
 <p align="center">
 <a href="https://github.com/Antony-Thornton/MS1---Gym-Website"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=MS1---Gym-Website&username=Antony-Thornton&theme=tokyonight" /></a>
 <a href="https://github.com/Antony-Thornton/MS2---Memory-Game
@@ -80,7 +82,7 @@
 <a href="https://github.com/Antony-Thornton/MS4--Fitness-Subscription-App"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=MS4--Fitness-Subscription-App&username=Antony-Thornton&theme=tokyonight" /></a>
 </p>
 
-
+### Python Projects
 
 
 <br/>  
