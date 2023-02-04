@@ -5,7 +5,7 @@
 
 
 
-### About me  
+# <div align="center">About Me</div>  
 ### <div align="center">I'm Antony, an aspiring programmer and data analyst working commercially since 2015.</div>  
   
 
