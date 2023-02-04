@@ -69,8 +69,19 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
+## Check out
+
+
+<p align="center">
+<a href="https://github.com/glennhs/aetherslay"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=aetherslay&username=glennhs&theme=synthwave" /></a>
+<a href="https://github.com/glennhs/Vue-Center"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=Vue-Center&username=glennhs&theme=synthwave" /></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/glennhs/Scrum-Helper"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=Scrum-Helper&username=glennhs&theme=synthwave" /></a>
+<a href="https://github.com/glennhs/Programming-Challenges"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=Programming-Challenges&username=glennhs&theme=synthwave" /></a>
+</p>
+
 
 <br/>  
 
