@@ -112,7 +112,7 @@
 ### Python Projects
 <p align="center">
   <a href="https://github.com/Antony-Thornton/Bank-Data-Analysis">
-    <img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=Bank-Data-Analysis&username=Antony-Thornton&theme=tokyonight" />
+    <img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=Bank-Data-Analysis&username=Antony-Thornton&theme=chartreuse-dark" />
   </a>
 </p>
 
