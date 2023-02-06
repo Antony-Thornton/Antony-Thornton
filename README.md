@@ -17,7 +17,7 @@
 <br/>  
 
 ## My website
-Why not check out my website <a href="bbc.co.uk" alt="" target="_blank">BUILD IN PROGRESS</a>
+Why not check out my website <a href="www.bbc.co.uk" alt="" target="_blank">BUILD IN PROGRESS</a>
 
 <br/>  
 
