@@ -121,19 +121,16 @@ Why not check out my website <a href="" alt="" target="_blank">BUILD IN PROGRESS
   </a>
 </p>
   
-### VBA Projects
+  
+ ### VBA Projects
 <p align="center">
   <a href="https://github.com/Antony-Thornton/VBA-Folder-and-File-Scrape-Macro">
     <img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=VBA-Folder-and-File-Scrape-Macro&username=Antony-Thornton&theme=radical" />
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/Antony-Thornton/VBA-Registration-Scraper">
     <img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=VBA-Registration-Scraper&username=Antony-Thornton&theme=radical" />
   </a>
 </p>
-
-<br/>  
 
 ## Connect with me  
 <div align="center">
