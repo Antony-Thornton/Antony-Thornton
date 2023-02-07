@@ -128,9 +128,6 @@ Why not check out my website <a href="" alt="" target="_blank">BUILD IN PROGRESS
   </a>
 </p>
 
-  
-  VBA-Folder-and-File-Scrape-Macro
-
 <br/>  
 
 ## Connect with me  
