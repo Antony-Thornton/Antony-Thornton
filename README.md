@@ -19,6 +19,16 @@
 ## My website
 Why not check out my website <a href="" alt="" target="_blank">BUILD IN PROGRESS</a>
 
+
+<br/>
+## Sports Statistics
+Recently I worked with Basingstoke Town Football club and produced a zone analysis report that detailed key match statistics. I am also currently working on a player tracker which breaks down match performance.
+These reports track the statistics live and are automated to produce a summary at the end of the game or half time. 
+
+Future plans include a web-based portal and playback feature. If this is of interest please feel free to contact me on jastatsguy@outlook.com or via my other socials directly. 
+
+
+
 <br/>  
 
 ## My Skill Set  
@@ -131,6 +141,7 @@ Why not check out my website <a href="" alt="" target="_blank">BUILD IN PROGRESS
     <img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=VBA-Registration-Scraper&username=Antony-Thornton&theme=radical" />
   </a>
 </p>
+
 
 ## Connect with me  
 <div align="center">
